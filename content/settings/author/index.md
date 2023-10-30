@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Sarah Potjer"
-image = "/img/default-author.jpg"
+image = "/media/img-20231030-wa0016.jpg"
 url = "/about/"
 +++
