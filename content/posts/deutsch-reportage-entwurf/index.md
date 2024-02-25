@@ -7,8 +7,6 @@ footnotes = ""
 +++
 ## Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierzentrums
 
-<!--StartFragment-->
-
 {{<lead>}}
 
 In der heutigen Welt, in der Millionen von Tieren ausgesetzt werden und auf der Strasse leben, bieten Tierheime nicht nur ein Dach über dem Kopf, sondern auch eine Chance auf ein neues Leben und ein liebevolles Zuhause. 
@@ -16,8 +14,6 @@ In der heutigen Welt, in der Millionen von Tieren ausgesetzt werden und auf der 
 Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder misshandelt wurden, haben Tierheime eine entscheidende Funktion für den Tierschutz und die Förderung von Adoptionen. Doch hinter den Mauern dieser Einrichtungen verbirgt sich weit mehr als nur temporäre Unterbringungsinstitution. Tierheime sind Orte der Hoffnung, des Mitgefühls und der Chance auf ein neues Leben für jedes Wesen, welches aufgenommen wird.
 
 {{</lead>}}
-
-<!--EndFragment-->
 
 *Anna Guggisberg, Sarah Potjer*
 
@@ -28,8 +24,6 @@ Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder mis
 Es ist ein grauer, verregneter Wintertag, als wir mitten im Wald, im Tierzentrum Bern eintreffen. Gegenwärtig ist nicht viel los, einige Autos stehen auf dem Parkplatz vor dem Tierzentrum und Fahrräder reihen sich sauber im Fahrradständer. Das Gelände selbst ist weitläufig, aber von einem hohen Zaun umschlossen. 
 
 Ein Pärchen kommt gerade Hand in Hand aus der Eingangstüre geschlendert und schlendern auf ihr Auto zu, ob sie wohl gerade von einem Besuch ihres zukünftigen tierischen Begleiters kommen? Wir gehen den kiesigen Weg hinauf zur Eingangstüre. Im Innern des Gebäudes stehen wir neben einer grossen Theke, hinter der sich die unterschiedlichsten Menschen befinden und in Gespräche vertieft sind. Wir werden von Jil Heimann begrüsst, sie ist eine achtzehnjährige Tierpflegerin, welche seit 2021 im Tierzentrum arbeitet und nun im dritten Lernjahr ist. Als sie uns das Tierzentrum zeigt und Dinge über die Tiere hier erzählt, fangen ihre blauen Augen augenblicklich an zu strahlen. Wir spüren: Sie liebt ihre Arbeit und sieht darin eine sinnvolle Tätigkeit. 
-
-
 
 #### Herausforderungen im Tierzentrum Bern
 
