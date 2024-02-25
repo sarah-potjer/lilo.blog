@@ -7,6 +7,8 @@ footnotes = ""
 +++
 ## Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierzentrums
 
+<!--StartFragment-->
+
 {{<lead>}}
 
 In der heutigen Welt, in der Millionen von Tieren ausgesetzt werden und auf der Strasse leben, bieten Tierheime nicht nur ein Dach über dem Kopf, sondern auch eine Chance auf ein neues Leben und ein liebevolles Zuhause. 
@@ -15,9 +17,11 @@ Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder mis
 
 {{</lead>}}
 
+<!--EndFragment-->
+
 *Anna Guggisberg, Sarah Potjer*
 
-![Das neue Berner Tierzentrum, mitten im Wald bei Hinterkappelen. Die Eule an der Fassade des Gebäudes ist das Logo des Tierzentrum Bern (von Sarah Potjer, am 21. Dezember 2023) ](https://photos.app.goo.gl/YM2e9Mb3dQMfXTMt9)
+![Das neue Berner Tierzentrum, mitten im Wald bei Hinterkappelen. Die Eule an der Fassade des Gebäudes ist das Logo des Tierzentrum Bern (von Sarah Potjer, am 21. Dezember 2023) ]()
 
 <!--StartFragment-->
 
@@ -31,15 +35,9 @@ Ein Pärchen kommt gerade Hand in Hand aus der Eingangstüre geschlendert und sc
 
 Um 8 Uhr morgens beginnt im Tierzentrum Bern der Arbeitsalltag, erzählt uns Jil Heimann. Gemeinsam werden die vielfältigen Aufgaben des Tages verteilt. Ein wesentlicher Bestandteil ist die gründliche Reinigung der Gehege, denn im Laufe der Stunden sammelt sich so einiges an. Ebenso steht die Fütterung der Tiere auf der Tagesordnung, schließlich muss sichergestellt sein, dass alle Bewohner des Tierheims gut versorgt sind. Neben Jil Heimann gibt es noch sieben Tierpfleger und drei Lehrlinge, dazu noch einige Mitarbeitende in der Administration Und andere Mitarbeiter, die den Beruf Tierpfleger erlernen oder erlernt haben. Welche bei der Pflege und Vermittlung von Katzen, Hunden und verschiedenen Kleintieren helfen.
 
-
-
 Dem Tierzentrum Bern sind angemessene Haltungsbedingungen sehr wichtig. Deswegen beschweren sich teilweise Personen in den Rezensionen des Tierzentrums über die hohen Anforderungen. Ein älterer Herr, 85 Jahre alt, beklagt sich zum Beispiel darüber, keinen Welpen mehr adoptieren zu können, und hinterlässt eine schlechte Rezension. Jugendliche, fasziniert von der Idee, einen  Pitbull zu haben, verstehen nicht, dass das Tierheim diese Hunde nur Interessierten ab dem Alter von 25 Jahren zur Adoption überlässt. Auch ihre Unzufriedenheit manifestiert sich online in Beschwerden und teils unhöflichen Ton.
 
-
-
 Jil Heiman betont demgegenüber, wie wichtig es sei, dass das Tierzentrum Bern seine Verantwortung für angemessene Haltungsbedingungen ernst nimmt, auch wenn das zuweilen auf Unverständnis und Kritik stosse. Sie berichtet sogar von Rezensionen, die das Tierheim und seine Praktiken als minderwertig abstempeln: "Es gibt viele Menschen, die sagen, das Tierheim, oder wir, sind einfach schlecht," sagt sie uns. Sie erzählt uns auch von jenen, die sich an den strengen Richtlinien des Tierzentrums stoßen. In den Gängen des Tierzentrums manifestiert sich somit nicht nur die Suche von Menschen nach tierischer Gesellschaft, sondern auch die Herausforderung für die Tierheim-Betreibenden, den Bedürfnissen der Tiere gerecht zu werden und zugleich die Erwartungen der potenziellen neuen Besitzer zu berücksichtigen. 
-
-
 
 > Es gibt viele Menschen, die sagen, das Tierheim, oder wir, sind einfach schlecht…
 >
@@ -55,8 +53,6 @@ Das Berner Tierzentrum spielt nicht nur eine essenzielle Rolle bei der direkten 
 
 Dem Berner Tierzentrum ist auch sehr wichtig, dass Kinder lernen, wie sie richtig mit Tieren umgehen und was sie tun können, um Tieren zu helfen. Deshalb hat das Berner Tierzentrum den sogenannten Bubo-Club gegründet. Dieser bietet Kindern zwischen 9 und 13 Jahren die Möglichkeit, sich aktiv am Tierschutz zu beteiligen. Die Kinder lernen zum Beispiel Futterhäuser für Igel zu bauen, basteln Spielzeug für Tierheimkatzen oder besuchen eine Wildtierstation, in der kranke oder verlassene Wildtiere gepflegt und aufgezogen werden. Zudem gibt es Nachmittage, an denen die Kinder aktiv im Tierheim helfen. Diese Einblicke in die Arbeit des Tierzentrums fördern nicht nur das Verantwortungsbewusstsein der jungen Mitglieder, sondern tragen auch zur Schaffung einer tierfreundlichen Gemeinschaft bei.
 
-
-
 {{<box>}}
 
 Wie kann man das Berner Tierzentrum unterstützen 
@@ -64,8 +60,6 @@ Wie kann man das Berner Tierzentrum unterstützen 
 Da es keine Unterstützung des Kantons erhält, spielen Spenden und Mitgliedschaften für das Tierzentrum eine entscheidende Rolle. Sehr willkommen sind Geldspenden, Futterspenden, aber auch Halsbänder etc. Das Tierzentrum informiert gerne darüber, was aktuell am dringendsten benötigt wird. Ein Anruf genügt!  Besondere Aufmerksamkeit gilt auch dem Chippen von Tieren, da das Tierzentrum viele Findeltiere betreut. Die Kennzeichnung durch einen Mikrochip hilft, verlorene Tiere zu identifizieren und sie sicher zurückzubringen. Jeder Beitrag, ob materiell oder immateriell, trägt dazu bei, das Wohlergehen der Tiere im Berner Tierzentrum zu fördern
 
 {{</box>}}
-
-
 
 #### Von der Strasse ins Herz 
 
@@ -77,8 +71,6 @@ Am Tag nach ihrer Aufnahme werden die Tiere von den Tierpflegenden versorgt. Der
 
  Bei Hunden gibt es ein spezielles System, welches die Wiedereinführung  in die Gesellschaft  der Hunde ermöglicht. Alle Tierpflegenden bekommen einen Pflegehund , sie gewöhnen den Hund langsam wieder an die Umgebung. Bei der Zuweisung der Hunde wird, so gut es geht, auf die Kompatibilität von Mensch und Hund geachtet.
 
-
-
 ![Das ist Maddox der ehemalige Pflegehund von Jil Heimann. (Vom Berner Tierschutz, Tierwelt Ausgabe 36](https://lh7-us.googleusercontent.com/_7BW2szEGFBd9smdqhA2WTwojRxRSjx-kbcDpAaRAzTJxOSyORCsrrEOOOPhmaTn6DIxvI6uPCXELVtVi-jkVrmZ2UpPe-a3p5xqHxPh_OqEtGTpdDJZvA-dn9WwE1TZAeeeWGPlB5DWn8X2kY-OSw)
 
 Auch Jil Heimann hatte schon einige Pflegehunde, darunter auch Problemhunde wie Maddox. Maddox ist ein Mischlingshund aus Rumänien und wurde von Jil als Pflegehund aufgenommen. Er hatte unter anderem Schwierigkeiten mit anderen Hunden und musste fast alles von neu auf erlernen. Jil hat über ein Jahr mit Maddox trainiert und ihm so die für ihn neue und gefährliche Welt näher gebracht. 
@@ -88,8 +80,6 @@ Auch Jil Heimann hatte schon einige Pflegehunde, darunter auch Problemhunde wie 
 > Maddox kam schon zwei Mal von einem Probewohnen zurück, beim ersten Mal war er einfach zu wenig ausgelastet und hat Dinge kaputt gemacht …
 >
 > \-Jil Heimann
->
->
 
 Am Beispiel von Maddox kann man sehen, dass die Dauer bis zur Adoption stark variieren kann, aber eines bleibt: Die Adoptionsdauer eines Hundes ist viel länger als die einer Katze oder eines anderen Kleintiers. Dies hat  verschiedene Gründe: Einerseits lebt ein Hund häufig länger bei einer Familie als ein Kleintier, andererseits ist es oft wichtiger, eine gute Kompatibilität zu einem Hund zu haben, aus Gründen wie die Hundeführung. Aber insgesamt ist es nicht so wichtig, wie lange ein Tier auf seine Familie warten muss, solange die diese gut zu ihm passt. 
 
