@@ -17,7 +17,7 @@ Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder mis
 
 *Anna Guggisberg, Sarah Potjer*
 
-![Das neue Berner Tierzentrum, mitten im Wald bei Hinterkappelen. Die Eule an der Fassade des Gebäudes ist das Logo des Tierzentrum Bern (von Sarah Potjer, am 21. Dezember 2023) ]()
+![asögjoiöhgöoiwhgowihgoiwihgwo](image.0.png)
 
 <!--StartFragment-->
 
@@ -55,28 +55,40 @@ Da es keine Unterstützung des Kantons erhält, spielen Spenden und Mitgliedscha
 
 {{</box>}}
 
+
+
 #### Von der Strasse ins Herz 
 
 Wer ein Tier in seiner Familie aufnehmen will, muss einiges beachtet werden. Dass der neue Besitzer gutes Futter hat, das Tier auf Krankheiten und Impfungen abgecheckt ist und am wichtigsten, dass das Tier und die Familie zusammenpassen. Aber das Tierheim selbst muss natürlich ebenfalls einige Dinge beachten, wie dass das Tier gut erzogen ist und die bestmöglichen Chancen hat in der Familie klarzukommen. Das Überprüfen der Passung von Tier und Mensch übernehmen im Tierzentrum Bern Tierpflegende wie Jil. Doch bevor ein Tier vermittelt werden kann, sind viele andere Dinge nötig. 
 
-Als Erstes die Aufnahme. Im Tierzentrum gibt es einen Raum, zu dem die Polizei uneingeschränkten Zugriff hat, denn es ist häufig sie, die ein Tier zum Tierzentrum bringen. Es ist ein kleiner Raum mit zwei kleinen Räumen für Hunde und einigen Gehegen für Katzen und Kleintiere, ausserdem ist er mit genug Grundausstattung wie Essen, Trinken, Katzenklo ausgestattet.  
+Als Erstes die Aufnahme. Im Tierzentrum gibt es einen Raum, zu dem die Polizei uneingeschränkten Zugriff hat, denn es ist häufig sie, die ein Tier zum Tierzentrum bringen. Es handelt sich um einen kompakten Raum, der zwei kleine Bereiche für Hunde sowie einige Käfige für Katzen und andere kleine Tiere enthält. Zusätzlich ist er mit allen grundlegenden Bedürfnissen wie Futter, Wasser und Katzenklos ausgestattet.
 
-Am Tag nach ihrer Aufnahme werden die Tiere von den Tierpflegenden versorgt. Der örtliche Tierarzt untersucht die Neulinge und stellt sicher, dass sie keine Krankheiten und Infektionen haben. Wenn die Tiere gesund sind, werden sie zu ihren Artgenossen gelassen, wo sie täglich betreut werden, bis sie eine passende Familie gefunden haben.
+Am Tag nach ihrer Aufnahme werden die Tiere von den Tierpflegenden versorgt. Der örtliche Tierarzt untersucht die Neulinge und stellt sicher, dass sie keine Krankheiten und Infektionen haben. Wenn die Tiere gesund sind, werden sie zu ihren Artgenossen gelassen, wo sie täglich betreut werden, bis sie eine passende Familie gefunden haben
 
- Bei Hunden gibt es ein spezielles System, welches die Wiedereinführung  in die Gesellschaft  der Hunde ermöglicht. Alle Tierpflegenden bekommen einen Pflegehund , sie gewöhnen den Hund langsam wieder an die Umgebung. Bei der Zuweisung der Hunde wird, so gut es geht, auf die Kompatibilität von Mensch und Hund geachtet.
+Das spezielle System für Hunde erleichtert ihre schrittweise Wiedereingliederung in die Gesellschaft. Alle Tierpflegenden bekommen einen Pflegehund , sie gewöhnen den Hund langsam wieder an die Umgebung. Bei der Zuweisung der Hunde wird, so gut es geht, auf die Kompatibilität von Mensch und Hund geachtet.
 
 ![Das ist Maddox der ehemalige Pflegehund von Jil Heimann. (Vom Berner Tierschutz, Tierwelt Ausgabe 36](https://lh7-us.googleusercontent.com/_7BW2szEGFBd9smdqhA2WTwojRxRSjx-kbcDpAaRAzTJxOSyORCsrrEOOOPhmaTn6DIxvI6uPCXELVtVi-jkVrmZ2UpPe-a3p5xqHxPh_OqEtGTpdDJZvA-dn9WwE1TZAeeeWGPlB5DWn8X2kY-OSw)
+
+<!--StartFragment-->
 
 Auch Jil Heimann hatte schon einige Pflegehunde, darunter auch Problemhunde wie Maddox. Maddox ist ein Mischlingshund aus Rumänien und wurde von Jil als Pflegehund aufgenommen. Er hatte unter anderem Schwierigkeiten mit anderen Hunden und musste fast alles von neu auf erlernen. Jil hat über ein Jahr mit Maddox trainiert und ihm so die für ihn neue und gefährliche Welt näher gebracht. 
 
 “Maddox kam schon zwei Mal von einem Probewohnen zurück,” berichtet Jil,” beim ersten Mal war er einfach zu wenig ausgelastet und hat Dinge kaputt gemacht. Ich hatte ihn schon öfters bei mir und dann war er ruhig, aber das liegt vermutlich daran, dass ich ihn richtig ausgelastet habe. Beim zweiten Mal war er zu kompliziert mit den anderen Hunden und die Frau, bei der er war, wusste nicht mehr weiter.” Das Training mit Maddox hat sich aber ausgezahlt, denn er hat im Januar 2024 eine neue Familie gefunden. 
 
+
+
 > Maddox kam schon zwei Mal von einem Probewohnen zurück, beim ersten Mal war er einfach zu wenig ausgelastet und hat Dinge kaputt gemacht …
 >
 > \-Jil Heimann
+>
+>
 
 Am Beispiel von Maddox kann man sehen, dass die Dauer bis zur Adoption stark variieren kann, aber eines bleibt: Die Adoptionsdauer eines Hundes ist viel länger als die einer Katze oder eines anderen Kleintiers. Dies hat  verschiedene Gründe: Einerseits lebt ein Hund häufig länger bei einer Familie als ein Kleintier, andererseits ist es oft wichtiger, eine gute Kompatibilität zu einem Hund zu haben, aus Gründen wie die Hundeführung. Aber insgesamt ist es nicht so wichtig, wie lange ein Tier auf seine Familie warten muss, solange die diese gut zu ihm passt. 
 
+
+
 Insgesamt sind Tierheime nicht nur wichtige Einrichtungen für den Tierschutz, sondern auch Orte, die Hoffnung und Mitgefühl verkörpern. Sie bieten Tieren, die sonst auf der Strasse umherirren oder vernachlässigt würden, nicht nur ein vorübergehendes Zuhause, sondern auch eine zweite Chance auf ein glückliches Leben bei einer Familie, die sie liebt, indem wir Tierheime unterstützen oder ein Tier adoptieren, können wir alle dazu beitragen, das Leid von Strassentieren zu verringern und ihnen ein liebevolles Zuhause zu schenken. Letztendlich verdient jedes Tier Liebe, Fürsorge und ein Zuhause, und Tierheime spielen eine entscheidende Rolle dabei, diese Bedürfnisse zu erfüllen.
+
+
 
 <!--EndFragment-->
