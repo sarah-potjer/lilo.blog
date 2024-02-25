@@ -1,7 +1,7 @@
 +++
 title = "Deutsch Reportage Entwurf"
 date = "2024-02-20"
-draft = true
+draft = false
 pinned = true
 footnotes = ""
 +++
