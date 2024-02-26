@@ -4,6 +4,7 @@ date = "2024-02-20"
 draft = false
 pinned = true
 tags = []
+image = "image.0.png"
 footnotes = ""
 +++
 {{<lead>}}
