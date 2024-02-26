@@ -1,5 +1,5 @@
 +++
-title = "Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierzentrums"
+title = "Tierzentrum Bern: Zwischen Pfotabdrücken und Lebensgeschichten "
 date = "2024-02-20"
 draft = false
 pinned = false
