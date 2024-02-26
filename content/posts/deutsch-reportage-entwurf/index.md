@@ -2,7 +2,7 @@
 title = "Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierzentrums"
 date = "2024-02-20"
 draft = false
-pinned = true
+pinned = false
 tags = []
 image = "img-20240226-wa0005.jpg"
 footnotes = ""
