@@ -1,5 +1,5 @@
 +++
-title = "Tierzentrum Bern: Zwischen Pfotabdrücken und Lebensgeschichten "
+title = "Tierzentrum Bern: Zwischen Pfotenabdrücken und Lebensgeschichten "
 date = "2024-02-20"
 draft = false
 pinned = false
