@@ -1,12 +1,11 @@
 +++
-title = "Reportageprojekt Deutsch "
+title = "Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierzentrums"
 date = "2024-02-20"
 draft = false
 pinned = true
+tags = []
 footnotes = ""
 +++
-## Zwischen Hoffnung und Zuhause: Die Rettungstätigkeit des Berner Tierzentrums
-
 {{<lead>}}
 
 In der heutigen Welt, in der Millionen von Tieren ausgesetzt werden und auf der Strasse leben, bieten Tierheime nicht nur ein Dach über dem Kopf, sondern auch eine Chance auf ein neues Leben und ein liebevolles Zuhause. 
@@ -25,8 +24,6 @@ Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder mis
 
 Ein Pärchen kommt gerade Hand in Hand aus der Eingangstüre geschlendert und schlendern auf ihr Auto zu, ob sie wohl gerade von einem Besuch ihres zukünftigen tierischen Begleiters kommen? Wir gehen den kiesigen Weg hinauf zur Eingangstüre. Im Innern des Gebäudes stehen wir neben einer grossen Theke, hinter der sich die unterschiedlichsten Menschen befinden und in Gespräche vertieft sind. Wir werden von Jil Heimann begrüsst, sie ist eine achtzehnjährige Tierpflegerin, welche seit 2021 im Tierzentrum arbeitet und nun im dritten Lernjahr ist. Als sie uns das Tierzentrum zeigt und Dinge über die Tiere hier erzählt, fangen ihre blauen Augen augenblicklich an zu strahlen. Wir spüren: Sie liebt ihre Arbeit und sieht darin eine sinnvolle Tätigkeit. 
 
-
-
 #### Herausforderungen im Tierzentrum Bern
 
 Um 8 Uhr morgens beginnt im Tierzentrum Bern der Arbeitsalltag, erzählt uns Jil Heimann. Gemeinsam werden die vielfältigen Aufgaben des Tages verteilt. Ein wesentlicher Bestandteil ist die gründliche Reinigung der Gehege, denn im Laufe der Stunden sammelt sich so einiges an. Ebenso steht die Fütterung der Tiere auf der Tagesordnung, schließlich muss sichergestellt sein, dass alle Bewohner des Tierheims gut versorgt sind. Neben Jil Heimann gibt es noch sieben Tierpfleger und drei Lehrlinge, dazu noch einige Mitarbeitende in der Administration. Welche bei der Pflege und Vermittlung von Katzen, Hunden und verschiedenen Kleintieren helfen.
@@ -34,8 +31,6 @@ Um 8 Uhr morgens beginnt im Tierzentrum Bern der Arbeitsalltag, erzählt uns Jil
 Dem Tierzentrum Bern sind angemessene Haltungsbedingungen sehr wichtig. Deswegen beschweren sich teilweise Personen in den Rezensionen des Tierzentrums über die hohen Anforderungen. Ein älterer Herr, 85 Jahre alt, beklagt sich zum Beispiel darüber, keinen Welpen mehr adoptieren zu können, und hinterlässt eine schlechte Rezension. Jugendliche, fasziniert von der Idee, einen  Pitbull zu haben, verstehen nicht, dass das Tierheim diese Hunde nur Interessierten ab dem Alter von 25 Jahren zur Adoption überlässt. Auch ihre Unzufriedenheit manifestiert sich online in Beschwerden und teils unhöflichen Ton.
 
 Jil Heiman betont demgegenüber, wie wichtig es sei, dass das Tierzentrum Bern seine Verantwortung für angemessene Haltungsbedingungen ernst nimmt, auch wenn das zuweilen auf Unverständnis und Kritik stosse. Sie berichtet sogar von Rezensionen, die das Tierheim und seine Praktiken als minderwertig abstempeln: "Es gibt viele Menschen, die sagen, das Tierheim, oder wir, sind einfach schlecht," sagt sie uns. Sie erzählt uns auch von jenen, die sich an den strengen Richtlinien des Tierzentrums stoßen. In den Gängen des Tierzentrums manifestiert sich somit nicht nur die Suche von Menschen nach tierischer Gesellschaft, sondern auch die Herausforderung für die Tierheim-Betreibenden, den Bedürfnissen der Tiere gerecht zu werden und zugleich die Erwartungen der potenziellen neuen Besitzer zu berücksichtigen.
-
-
 
 > Es gibt viele Menschen, die sagen, das Tierheim, oder wir, sind einfach schlecht…
 >
@@ -59,8 +54,6 @@ Da es keine Unterstützung des Kantons erhält, spielen Spenden und Mitgliedscha
 
 {{</box>}}
 
-
-
 #### Von der Strasse ins Herz 
 
 Wer ein Tier in seiner Familie aufnehmen will, muss einiges beachtet werden. Dass der neue Besitzer gutes Futter hat, das Tier auf Krankheiten und Impfungen abgecheckt ist und am wichtigsten, dass das Tier und die Familie zusammenpassen. Aber das Tierheim selbst muss natürlich ebenfalls einige Dinge beachten, wie dass das Tier gut erzogen ist und die bestmöglichen Chancen hat in der Familie klarzukommen. Das Überprüfen der Passung von Tier und Mensch übernehmen im Tierzentrum Bern Tierpflegende wie Jil. Doch bevor ein Tier vermittelt werden kann, sind viele andere Dinge nötig.
@@ -79,18 +72,12 @@ Das spezielle System für Hunde erleichtert ihre schrittweise Wiedereingliederun
 
 “Maddox kam schon zwei Mal von einem Probewohnen zurück,” berichtet Jil,” beim ersten Mal war er einfach zu wenig ausgelastet und hat Dinge kaputt gemacht. Ich hatte ihn schon öfters bei mir und dann war er ruhig, aber das liegt vermutlich daran, dass ich ihn richtig ausgelastet habe. Beim zweiten Mal war er zu kompliziert mit den anderen Hunden und die Frau, bei der er war, wusste nicht mehr weiter.” Das Training mit Maddox hat sich aber ausgezahlt, denn er hat im Januar 2024 eine neue Familie gefunden. 
 
-
-
 > Maddox kam schon zwei Mal von einem Probewohnen zurück, beim ersten Mal war er einfach zu wenig ausgelastet und hat Dinge kaputt gemacht …
 >
 > \-Jil Heimann
 
-
-
 Am Beispiel von Maddox kann man sehen, dass die Dauer bis zur Adoption stark variieren kann, aber eines bleibt: Die Adoptionsdauer eines Hundes ist viel länger als die einer Katze oder eines anderen Kleintiers. Dies hat  verschiedene Gründe: Einerseits lebt ein Hund häufig länger bei einer Familie als ein Kleintier, andererseits ist es oft wichtiger, eine gute Kompatibilität zu einem Hund zu haben, aus Gründen wie die Hundeführung. Aber insgesamt ist es nicht so wichtig, wie lange ein Tier auf seine Familie warten muss, solange die diese gut zu ihm passt. 
 
 Insgesamt sind Tierheime nicht nur wichtige Einrichtungen für den Tierschutz, sondern auch Orte, die Hoffnung und Mitgefühl verkörpern. Sie bieten Tieren, die sonst auf der Strasse umherirren oder vernachlässigt würden, nicht nur ein vorübergehendes Zuhause, sondern auch eine zweite Chance auf ein glückliches Leben bei einer Familie, die sie liebt, indem wir Tierheime unterstützen oder ein Tier adoptieren, können wir alle dazu beitragen, das Leid von Strassentieren zu verringern und ihnen ein liebevolles Zuhause zu schenken. Letztendlich verdient jedes Tier Liebe, Fürsorge und ein Zuhause, und Tierheime spielen eine entscheidende Rolle dabei, diese Bedürfnisse zu erfüllen.
-
-﻿
 
 <!--EndFragment-->
