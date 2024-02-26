@@ -1,14 +1,14 @@
 +++
-title = "Reportageprojekt  Interview"
+title = "Einblick in das Tierzentrum Bern: Ein Gespräch mit einer angehenden Tierpflegerin"
 date = "2024-02-25"
 draft = false
 pinned = false
 +++
-<!--StartFragment-->
-
-# Einblick in das Tierzentrum Bern: Ein Gespräch mit einer angehenden Tierpflegerin
+{{<lead>}}
 
 Inmitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, eine angehende Tierpflegerin im dritten Lehrjahr, Einblicke in ihre Motivation und die Herausforderungen des Tierzentrums. Von der  Vorliebe für Tiere bis zur Frage nach der Adoption beleuchtet sie die Vielfalt und die dringende Notwendigkeit des Engagements für unsere pelzigen Freunde.
+
+{{</lead>}}
 
 *Anna Guggisberg, Sarah Potjer*
 
@@ -40,8 +40,6 @@ Es gibt keine Vorschriften, also kein Gesetz, von dem ich wüsste. Also wenn man
 
 Ich persönlich finde beides nicht schlecht, aber wenn man etwas von einem Züchter kaufen möchte, dann sollte man darauf achten, dass es ein guter und seriöser Züchter ist. Also, dass der Züchter bei den Tieren eine gute Prägungsphase macht, sodass es ein „gutes“ Tier wird. Ich finde es einfach wichtig, dass es ein seriöser Züchter ist. Von einem Tierheim adoptieren ist sicher auch eine gute Möglichkeit. Aber ich finde es natürlich schon gut, wenn man ein Tier adoptiert, vor allem wenn man schon ein Senior ist.
 
-
-
 {{<box>}}
 
 Infokasten Adoption 
@@ -55,8 +53,6 @@ Die Dauer des Adoptionsverfahrens kann stark variieren. Bei Hunden kann es beisp
 Die Dauer der Adoption hängt von verschiedenen Faktoren ab, wie die Kompatibilität des Tieres und des Menschen, aber auch die medizinische Verfassung des Tieres.
 
 {{</box>}}
-
-
 
 **Gibt es viele Tierheime, die voll besetzt sind? Habt ihr Platzmangel?**
 
