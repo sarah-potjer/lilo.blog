@@ -15,6 +15,8 @@ Mit ihren offenen Türen für diejenigen, die verloren, vernachlässigt oder mis
 
 {{</lead>}}
 
+
+
 *Anna Guggisberg, Sarah Potjer*
 
 ![ Das neue Berner Tierzentrum, mitten im Wald bei Hinterkappelen. Die Eule an der Fassade des Gebäudes iist das Logo des Tierzentrum Bern (von Sarah Potjer, am 21.Dezember 2023](img-20240226-wa0005.jpg)
