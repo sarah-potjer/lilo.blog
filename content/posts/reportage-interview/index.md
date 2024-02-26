@@ -3,6 +3,7 @@ title = "Einblick in das Tierzentrum Bern: Ein Gespräch mit einer angehenden Ti
 date = "2024-02-25"
 draft = false
 pinned = false
+image = "image.0.png"
 +++
 {{<lead>}}
 
