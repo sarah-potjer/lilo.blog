@@ -13,7 +13,7 @@ Inmitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, e
 
 *Anna Guggisberg, Sarah Potjer*
 
-![Dies ist Jil Heimann. Sie ist im dritten Lernjahr und posiert hier mit einem ihrer Pflegehunde. ](img-20240226-wa0006.jpg)
+![Dies ist Jil Heimann. Sie ist im dritten Lernjahr und posiert hier mit einem ihrer Pflegehunde. (Tierwelt Ausgabe 33, aus dem Jahr 2022)](img-20240226-wa0006.jpg)
 
 Beim Betreten der lichtdurchfluteten Eingangshalle, kommt einem Gezwitscher und Bellen entgegen, es ist nicht sehr laut, aber füllt doch den ganzen Raum. Neben dem breiten Thresen, steht eine junge Frau, welche uns freundlich anlächelt. Es handelt sich um Jil Heimann, sie arbeitet im Tierzentrum Bern als Tierpflegerin EFZ im dritten Lernjahr. Was sie genau im Tierzentrum macht und wie eine Adoption verläuft, erzählt Jil uns in einem kleinen Raum, in dem normalerweise Adoptionsverfahren besprochen werden.   
 
@@ -21,13 +21,9 @@ Beim Betreten der lichtdurchfluteten Eingangshalle, kommt einem Gezwitscher und 
 
 Es ist einfach, ich mag sehr gerne Tiere.  Bei mir war auch von Anfang an klar, dass ich mit Tieren arbeiten möchte. Also habe ich mich hier beworben. 
 
-
-
 > Es ist einfach, ich mag sehr gerne Tiere.  Bei mir war auch von Anfang an klar, dass ich mit Tieren arbeiten möchte. Also habe ich mich hier beworben 
 >
 > \-Jil Heiman
-
-
 
 **Bemerkt man einen grossen Unterschied bei Rassehunden und Mischlingen?**
 
