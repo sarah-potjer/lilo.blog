@@ -4,6 +4,7 @@ date = "2024-02-25"
 draft = false
 pinned = false
 image = "img-20240228-wa0010.jpg"
+description = "Inmitten des lebhaften Treibens im Tierzentrum Bern eröffnet uns Jil Heimann, eine angehende Tierpflegerin im dritten Lehrjahr, Einblicke in ihre Motivation und die Herausforderungen des Tierzentrums. Von der  Vorliebe für Tiere bis zur Frage nach der Adoption beleuchtet sie die Vielfalt und die dringende Notwendigkeit des Engagements für unsere pelzigen Freunde."
 +++
 {{<lead>}}
 
